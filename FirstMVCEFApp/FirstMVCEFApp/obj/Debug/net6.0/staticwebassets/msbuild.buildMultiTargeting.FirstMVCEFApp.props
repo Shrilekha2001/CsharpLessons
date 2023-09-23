@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FirstMVCEFApp.props" />
+</Project>
